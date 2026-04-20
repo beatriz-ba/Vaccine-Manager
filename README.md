@@ -1,2 +1,2 @@
-# Algorithms-and-Data-Structures-Project
+# Vaccine Manager
 This is my project for my Introduction to Algorithms and Data Structures 24/25 class at Instituto Superior Técnico, University of Lisbon.
